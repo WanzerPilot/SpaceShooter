@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 04a21b8a0b0f53c4d93979f7614e2144
+guid: 259e182a178943d4da4d2e449a73b7ea
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -175,7 +175,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_0
+      name: reImportAssets_0
       rect:
         serializedVersion: 2
         x: 38
@@ -189,14 +189,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61b315e6cf4063e47be02e7cb643b278
-      internalID: 175443586
+      spriteID: 23338bb5f706dbb498a6d9baa2bd370b
+      internalID: -648683470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_1
+      name: reImportAssets_1
       rect:
         serializedVersion: 2
         x: 92
@@ -210,14 +210,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a61aaba5eee7a904db0496e5176f3e78
-      internalID: 381563868
+      spriteID: 1f8bc5c32f5da1d40b9b1c46b3595d38
+      internalID: -1541354708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_2
+      name: reImportAssets_2
       rect:
         serializedVersion: 2
         x: 149
@@ -231,14 +231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4912e614c8c0e5f48a541f21c5f49de9
-      internalID: 1391254428
+      spriteID: ed0919a3191d02843b570fe623829d94
+      internalID: -2104852022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_3
+      name: reImportAssets_3
       rect:
         serializedVersion: 2
         x: 229
@@ -252,14 +252,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef9ab4ca1d427d541a7e98b0367d2a91
-      internalID: 1965415809
+      spriteID: 7c39ad28048674c4b9166923437b8f18
+      internalID: 1768460800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_4
+      name: reImportAssets_4
       rect:
         serializedVersion: 2
         x: 282
@@ -273,14 +273,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cfc9fcaf57c3b64f85c74152ff2496a
-      internalID: -303078829
+      spriteID: 85d1c7f2a085420478a0f47898e7f3ac
+      internalID: -1898162976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_5
+      name: reImportAssets_5
       rect:
         serializedVersion: 2
         x: 334
@@ -294,14 +294,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c154d93c86ee0d4da3c19f43c5327f3
-      internalID: 1547640434
+      spriteID: 93069dbaea45cd848960cb4bd0250926
+      internalID: -788323098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_6
+      name: reImportAssets_6
       rect:
         serializedVersion: 2
         x: 420
@@ -315,14 +315,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d2f57e0a5b284d4d94c5dfec9dd4104
-      internalID: -1562082478
+      spriteID: 49202beb20adcb048928e67a21f80664
+      internalID: -1627848628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_7
+      name: reImportAssets_7
       rect:
         serializedVersion: 2
         x: 458
@@ -336,14 +336,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5c33ac7615313d4b85cf6808f45246b
-      internalID: 226375719
+      spriteID: 6f69900dc0388e54ab6e39766733f795
+      internalID: 810537158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_8
+      name: reImportAssets_8
       rect:
         serializedVersion: 2
         x: 38
@@ -357,14 +357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3d3c5f2746a888419566207f5f334f2
-      internalID: 1078353326
+      spriteID: 7a9e96fdb95307143b7a8f28e0ff69f8
+      internalID: -791549255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_9
+      name: reImportAssets_9
       rect:
         serializedVersion: 2
         x: 92
@@ -378,14 +378,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca315665b0335c3489fb6590575dad0f
-      internalID: 1301710786
+      spriteID: 9f3409b0afa62d942a59c6217a0bf4d9
+      internalID: 1701015706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_10
+      name: reImportAssets_10
       rect:
         serializedVersion: 2
         x: 149
@@ -399,14 +399,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3c19d1ee2a31144990034da3668cee5
-      internalID: -1688288476
+      spriteID: dd09774b8b5db2f41ab776cafea48b81
+      internalID: 1291829715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_11
+      name: reImportAssets_11
       rect:
         serializedVersion: 2
         x: 228
@@ -420,20 +420,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d23160aa2862e5469bfc7a539deda9c
-      internalID: -1232912737
+      spriteID: 2cacc202dd4a19d4dba384ffb56dc2b4
+      internalID: 1726958197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_12
+      name: reImportAssets_12
       rect:
         serializedVersion: 2
         x: 281
         y: 323
-        width: 108
-        height: 45
+        width: 53
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,14 +441,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58951389a81d68449adddb8a7836b70c
-      internalID: 1516925097
+      spriteID: 6593e4ec6b5c7314bb46aaedf497f023
+      internalID: -599363304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_13
+      name: reImportAssets_13
       rect:
         serializedVersion: 2
         x: 420
@@ -462,14 +462,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f22fe1b5a213df94688d4b948e4c131c
-      internalID: 440531455
+      spriteID: e23edc4c7a018684283a86f39aabf4c2
+      internalID: -1036279014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_14
+      name: reImportAssets_14
       rect:
         serializedVersion: 2
         x: 458
@@ -483,14 +483,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07bc371a3f5b91241844379d6955b577
-      internalID: 301351864
+      spriteID: 1e6bf62978213ac409c087c049915c51
+      internalID: 1907289822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_15
+      name: reImportAssets_15
       rect:
         serializedVersion: 2
         x: 39
@@ -504,14 +504,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7706b93a16ad367458217656215d02e9
-      internalID: -300046167
+      spriteID: a703849faf2648b4a84d7f39e792172f
+      internalID: 2065050948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_16
+      name: reImportAssets_16
       rect:
         serializedVersion: 2
         x: 93
@@ -525,14 +525,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 696917990b717ee45bff685e903d6389
-      internalID: -471192562
+      spriteID: 0c8c4bea135cb4f4592e82bc9f0137b3
+      internalID: 625151473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_17
+      name: reImportAssets_17
       rect:
         serializedVersion: 2
         x: 150
@@ -546,14 +546,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c16fac76865b3164f9342642d3bfa0d4
-      internalID: 1116011794
+      spriteID: c872b523c2deb5a44bdc90f1c8a9d7f7
+      internalID: -431279240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_18
+      name: reImportAssets_18
       rect:
         serializedVersion: 2
         x: 235
@@ -567,19 +567,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a37eae24474824e42b5e433af7528a11
-      internalID: 1166595891
+      spriteID: fba337e9b5e331247b8d2a8a7382dd52
+      internalID: 871758916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_19
+      name: reImportAssets_19
       rect:
         serializedVersion: 2
         x: 288
         y: 264
-        width: 108
+        width: 52
         height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -588,14 +588,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 213ab273f04ebde44b30902fee236e16
-      internalID: -934427649
+      spriteID: 7ab1ebed0fdddcf4bbe1a13ba9f7bd9d
+      internalID: -918896194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_20
+      name: reImportAssets_20
       rect:
         serializedVersion: 2
         x: 420
@@ -609,14 +609,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be74d6e0e65a30947909d852c2ea444e
-      internalID: 216824190
+      spriteID: dcecef3c2f106a94c9dc828ee6ffab62
+      internalID: 1571598985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_21
+      name: reImportAssets_21
       rect:
         serializedVersion: 2
         x: 458
@@ -630,20 +630,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb7ba54ec29fa824ea431ff852b92d9e
-      internalID: 728262716
+      spriteID: 1555b2937230e6d4f9071b1b90a2b1ee
+      internalID: -275202432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_22
+      name: reImportAssets_22
       rect:
         serializedVersion: 2
-        x: 248
-        y: 222
-        width: 11
-        height: 9
+        x: 340
+        y: 264
+        width: 56
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -651,20 +651,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45d18dc35224207419b6c580479bfee8
-      internalID: 1884057528
+      spriteID: 56a4787bf2eab3b4c91affe2efbe746b
+      internalID: 1242938204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_23
+      name: reImportAssets_23
       rect:
         serializedVersion: 2
         x: 281
         y: 196
-        width: 22
-        height: 28
+        width: 8
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -672,20 +672,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 699622dc4a15c9840a175473c393ddda
-      internalID: 247687702
+      spriteID: bb7fedceb3eefff47bb6869f11f6cb4f
+      internalID: 1533742838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_24
+      name: reImportAssets_24
       rect:
         serializedVersion: 2
-        x: 199
-        y: 204
+        x: 292
+        y: 195
         width: 9
-        height: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,40 +693,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ddcbd0852bf3e94d991f7be373ee584
-      internalID: 1802202360
+      spriteID: ef65b77fe53adc549be4dffeb10bb85c
+      internalID: 1882562550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_25
+      name: reImportAssets_26
       rect:
         serializedVersion: 2
-        x: 209
-        y: 212
-        width: 19
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d04cb83b160632f48899f0c7f66766a9
-      internalID: 1166537167
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_26
-      rect:
-        serializedVersion: 2
-        x: 247
+        x: 250
         y: 199
-        width: 10
+        width: 7
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -735,20 +714,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af0e0ed0d1dbd4940ad886ce6a040b66
-      internalID: 95741633
+      spriteID: 0e2b3a200ce3fcc46b0bc656973ccbda
+      internalID: -1234951961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_27
+      name: reImportAssets_27
       rect:
         serializedVersion: 2
-        x: 251
-        y: 195
-        width: 19
-        height: 18
+        x: 258
+        y: 197
+        width: 10
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,20 +735,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dd5e35c4a852364491844ef12450da5
-      internalID: -1216315482
+      spriteID: ac277f8d05e4b324c8bb4ea260e1dde0
+      internalID: -1479389400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_28
+      name: reImportAssets_28
       rect:
         serializedVersion: 2
-        x: 261
-        y: 212
-        width: 9
-        height: 10
+        x: 334
+        y: 323
+        width: 56
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -777,20 +756,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe24a743af8f7c842b3d83b7c8dfa978
-      internalID: 1911982407
+      spriteID: c5b4d415a0a300342a750e43f9815a12
+      internalID: -1799212093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_29
+      name: reImportAssets_29
       rect:
         serializedVersion: 2
-        x: 292
+        x: 303
         y: 196
-        width: 17
-        height: 18
+        width: 6
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -798,14 +777,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f98ccef3571dec49a642170451f6866
-      internalID: 985139273
+      spriteID: 98f4597138da6474cb17504625bb3fcd
+      internalID: 211765640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_30
+      name: reImportAssets_30
       rect:
         serializedVersion: 2
         x: 390
@@ -819,14 +798,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06bab7828b9b90848a8a8c821dac6193
-      internalID: -18749887
+      spriteID: c973abbfdfffb2d448722aaf57bb45d8
+      internalID: -445053456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_31
+      name: reImportAssets_31
       rect:
         serializedVersion: 2
         x: 442
@@ -840,14 +819,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ac223249320cfa468f598a260e7862a
-      internalID: 1830754022
+      spriteID: 7f4dacbfb5e1d0945a9ce4d49eac5bb7
+      internalID: -1018319272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_32
+      name: reImportAssets_32
       rect:
         serializedVersion: 2
         x: 478
@@ -861,19 +840,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d2ba8c6c1ded574f813141f1b6ecc3e
-      internalID: 576951918
+      spriteID: c7f883a5cd9c5074daad1214e8a4d9c0
+      internalID: -2131620393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_33
+      name: reImportAssets_34
       rect:
         serializedVersion: 2
-        x: 201
-        y: 195
-        width: 17
+        x: 207
+        y: 200
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead5252b80628343b25166b6027389e
+      internalID: -2017689046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reImportAssets_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 199
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e20ad9166052640b296bfc308763de
+      internalID: -484770821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reImportAssets_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 201
+        width: 7
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -882,77 +903,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 855d56d110be8b44096f67f61e66cad5
-      internalID: 2059440080
+      spriteID: 74a38d0a5356df94e9bbce19f62acd86
+      internalID: 648900423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_34
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 201
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bccb011f566f92b4795964ce3c60c0d5
-      internalID: 783600370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_35
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 197
-        width: 19
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9388ab7293036547abb54776fce69dc
-      internalID: 369171643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_36
-      rect:
-        serializedVersion: 2
-        x: 231
-        y: 202
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43b067a85d5c6f84aa6da14891c15e90
-      internalID: 64538930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_37
+      name: reImportAssets_37
       rect:
         serializedVersion: 2
         x: 304
@@ -966,14 +924,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3683a1faa53711347b598b673aba3069
-      internalID: -269181675
+      spriteID: f5c99edba46646a4694d72a5aca18633
+      internalID: -1018418819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_38
+      name: reImportAssets_38
       rect:
         serializedVersion: 2
         x: 356
@@ -987,14 +945,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f46f19eab74de5240ba33fac1c2535b9
-      internalID: 998334153
+      spriteID: fbbecfe8059c01c4798bc1587b96e6cd
+      internalID: 1133197927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_39
+      name: reImportAssets_39
       rect:
         serializedVersion: 2
         x: 411
@@ -1008,14 +966,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9596724594969c0439d01921e7b80a00
-      internalID: 789982205
+      spriteID: 700bc629871c6284594eadea3c58180d
+      internalID: 1397397481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_40
+      name: reImportAssets_40
       rect:
         serializedVersion: 2
         x: 41
@@ -1029,14 +987,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d1c1907988b1ea48a5c8a84c97db4ac
-      internalID: -507397765
+      spriteID: 695b937b8325786479c1098f4b42c759
+      internalID: 588380817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_41
+      name: reImportAssets_41
       rect:
         serializedVersion: 2
         x: 91
@@ -1050,14 +1008,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f807b6b86039b9f4e9d3f67a7056b923
-      internalID: 979064596
+      spriteID: af595240eac2ea1458f91532192abaef
+      internalID: 495613892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_42
+      name: reImportAssets_42
       rect:
         serializedVersion: 2
         x: 141
@@ -1071,14 +1029,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e3096c918e378e44bd8adadd3b91e59
-      internalID: -1055772616
+      spriteID: a871a894ba5cd8d46a8da5c35c794f08
+      internalID: -560474030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_43
+      name: reImportAssets_43
       rect:
         serializedVersion: 2
         x: 345
@@ -1092,14 +1050,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edbd55e1d7f240c49bbb314cb7bb30fd
-      internalID: -477609867
+      spriteID: c42925ef4d428dd46bfb491577ee94bb
+      internalID: 1534939697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_44
+      name: reImportAssets_44
       rect:
         serializedVersion: 2
         x: 396
@@ -1113,14 +1071,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c93c4125abb2c04ba2ea3a2e063a9ad
-      internalID: -1542271567
+      spriteID: 5bcc4ee597963ea4c8e954bd0439ce24
+      internalID: 931194900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SpaceShooter_SpriteSheet_45
+      name: reImportAssets_45
       rect:
         serializedVersion: 2
         x: 446
@@ -1134,8 +1092,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 064c342dc4b0bcd46ae6cc26f128ee4d
-      internalID: 584710477
+      spriteID: e068b81b16aa4404bb3ce15b86a40037
+      internalID: -1653062152
       vertices: []
       indices: 
       edges: []
@@ -1151,52 +1109,52 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SpaceShooter_SpriteSheet_0: 175443586
-      SpaceShooter_SpriteSheet_1: 381563868
-      SpaceShooter_SpriteSheet_10: -1688288476
-      SpaceShooter_SpriteSheet_11: -1232912737
-      SpaceShooter_SpriteSheet_12: 1516925097
-      SpaceShooter_SpriteSheet_13: 440531455
-      SpaceShooter_SpriteSheet_14: 301351864
-      SpaceShooter_SpriteSheet_15: -300046167
-      SpaceShooter_SpriteSheet_16: -471192562
-      SpaceShooter_SpriteSheet_17: 1116011794
-      SpaceShooter_SpriteSheet_18: 1166595891
-      SpaceShooter_SpriteSheet_19: -934427649
-      SpaceShooter_SpriteSheet_2: 1391254428
-      SpaceShooter_SpriteSheet_20: 216824190
-      SpaceShooter_SpriteSheet_21: 728262716
-      SpaceShooter_SpriteSheet_22: 1884057528
-      SpaceShooter_SpriteSheet_23: 247687702
-      SpaceShooter_SpriteSheet_24: 1802202360
-      SpaceShooter_SpriteSheet_25: 1166537167
-      SpaceShooter_SpriteSheet_26: 95741633
-      SpaceShooter_SpriteSheet_27: -1216315482
-      SpaceShooter_SpriteSheet_28: 1911982407
-      SpaceShooter_SpriteSheet_29: 985139273
-      SpaceShooter_SpriteSheet_3: 1965415809
-      SpaceShooter_SpriteSheet_30: -18749887
-      SpaceShooter_SpriteSheet_31: 1830754022
-      SpaceShooter_SpriteSheet_32: 576951918
-      SpaceShooter_SpriteSheet_33: 2059440080
-      SpaceShooter_SpriteSheet_34: 783600370
-      SpaceShooter_SpriteSheet_35: 369171643
-      SpaceShooter_SpriteSheet_36: 64538930
-      SpaceShooter_SpriteSheet_37: -269181675
-      SpaceShooter_SpriteSheet_38: 998334153
-      SpaceShooter_SpriteSheet_39: 789982205
-      SpaceShooter_SpriteSheet_4: -303078829
-      SpaceShooter_SpriteSheet_40: -507397765
-      SpaceShooter_SpriteSheet_41: 979064596
-      SpaceShooter_SpriteSheet_42: -1055772616
-      SpaceShooter_SpriteSheet_43: -477609867
-      SpaceShooter_SpriteSheet_44: -1542271567
-      SpaceShooter_SpriteSheet_45: 584710477
-      SpaceShooter_SpriteSheet_5: 1547640434
-      SpaceShooter_SpriteSheet_6: -1562082478
-      SpaceShooter_SpriteSheet_7: 226375719
-      SpaceShooter_SpriteSheet_8: 1078353326
-      SpaceShooter_SpriteSheet_9: 1301710786
+      reImportAssets_0: -648683470
+      reImportAssets_1: -1541354708
+      reImportAssets_10: 1291829715
+      reImportAssets_11: 1726958197
+      reImportAssets_12: -599363304
+      reImportAssets_13: -1036279014
+      reImportAssets_14: 1907289822
+      reImportAssets_15: 2065050948
+      reImportAssets_16: 625151473
+      reImportAssets_17: -431279240
+      reImportAssets_18: 871758916
+      reImportAssets_19: -918896194
+      reImportAssets_2: -2104852022
+      reImportAssets_20: 1571598985
+      reImportAssets_21: -275202432
+      reImportAssets_22: 1242938204
+      reImportAssets_23: 1533742838
+      reImportAssets_24: 1882562550
+      reImportAssets_25: -1724121329
+      reImportAssets_26: -1234951961
+      reImportAssets_27: -1479389400
+      reImportAssets_28: -1799212093
+      reImportAssets_29: 211765640
+      reImportAssets_3: 1768460800
+      reImportAssets_30: -445053456
+      reImportAssets_31: -1018319272
+      reImportAssets_32: -2131620393
+      reImportAssets_33: -1148083118
+      reImportAssets_34: -2017689046
+      reImportAssets_35: -484770821
+      reImportAssets_36: 648900423
+      reImportAssets_37: -1018418819
+      reImportAssets_38: 1133197927
+      reImportAssets_39: 1397397481
+      reImportAssets_4: -1898162976
+      reImportAssets_40: 588380817
+      reImportAssets_41: 495613892
+      reImportAssets_42: -560474030
+      reImportAssets_43: 1534939697
+      reImportAssets_44: 931194900
+      reImportAssets_45: -1653062152
+      reImportAssets_5: -788323098
+      reImportAssets_6: -1627848628
+      reImportAssets_7: 810537158
+      reImportAssets_8: -791549255
+      reImportAssets_9: 1701015706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

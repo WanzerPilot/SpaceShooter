@@ -51,9 +51,9 @@ MonoBehaviour:
   rb: {fileID: 2539824887129329754}
   speed: 20
   spriteArray:
-  - {fileID: -269181675, guid: 04a21b8a0b0f53c4d93979f7614e2144, type: 3}
-  - {fileID: -477609867, guid: 04a21b8a0b0f53c4d93979f7614e2144, type: 3}
-  - {fileID: 789982205, guid: 04a21b8a0b0f53c4d93979f7614e2144, type: 3}
+  - {fileID: -1018418819, guid: 259e182a178943d4da4d2e449a73b7ea, type: 3}
+  - {fileID: 1534939697, guid: 259e182a178943d4da4d2e449a73b7ea, type: 3}
+  - {fileID: 1397397481, guid: 259e182a178943d4da4d2e449a73b7ea, type: 3}
   missilePrefab: {fileID: 2963466174161438006, guid: 2b70931a0c555c64ead406628d07b732, type: 3}
 --- !u!50 &2539824887129329754
 Rigidbody2D:
@@ -200,12 +200,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1852737946, guid: 36e0bc35c1b59c64ba97df76945a572e, type: 3}
+  m_Sprite: {fileID: -1018418819, guid: 259e182a178943d4da4d2e449a73b7ea, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.47, y: 0.49}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1

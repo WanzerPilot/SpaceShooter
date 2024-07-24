@@ -10,11 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 7428857453328670700}
   - component: {fileID: 8691244971507583884}
+  - component: {fileID: 2286112774953000627}
   - component: {fileID: 2539824887129329754}
   - component: {fileID: 242982117175296014}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55,6 +56,18 @@ MonoBehaviour:
   - {fileID: 1534939697, guid: 259e182a178943d4da4d2e449a73b7ea, type: 3}
   - {fileID: 1397397481, guid: 259e182a178943d4da4d2e449a73b7ea, type: 3}
   missilePrefab: {fileID: 2963466174161438006, guid: 2b70931a0c555c64ead406628d07b732, type: 3}
+--- !u!114 &2286112774953000627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6200004912797244013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 733f86c3f849c6c44880c5e34494498b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!50 &2539824887129329754
 Rigidbody2D:
   serializedVersion: 4
